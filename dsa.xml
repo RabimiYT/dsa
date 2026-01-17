@@ -1,0 +1,25 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>https://rabimiyt.github.io/</id>
+<title>SexClient+</title>
+<updated>2026-01-17T18:28:55.455Z</updated>
+<generator>https://github.com/rabimiyt/dsa</generator>
+<link rel="self" href="https://rabimiyt.github.io/dsa/dsa.xml">
+<subtitle>An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.</subtitle>
+<logo>https://prismlauncher.org//img/favicon.png</logo>
+<rights>AGPL-3.0</rights>
+<entry>
+<title type="html">
+<![CDATA[ SexClient+ Release 1.0..0, now available ]]>
+</title>
+<id>https://google.com/search?q=fuck</id>
+<link href="https://google.com/search?q=fuck"/>
+<updated>2026-01-17T18:28:55.455Z</updated>
+<summary type="html">
+<![CDATA[ Here we go again ]]>
+</summary>
+<content type="html">
+<![CDATA[ <p>Hi again!</p>
+<author>
+<name>Rabimi Team</name>
+</author>
+</entry>
